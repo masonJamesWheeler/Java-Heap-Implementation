@@ -1,0 +1,12 @@
+---
+:id: 129783827
+:submitters:
+- :name: Mason James Wheeler
+  :email: mwheel@uw.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-07-26 03:14:10.975965000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-07-25 20:14:10.975965000 Z
+:status: processed
+:score: 16.0
